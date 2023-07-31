@@ -1,16 +1,15 @@
-# lgoin_ui
+# Login UI
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+This is a simple and attractive Login UI created using Flutter, a popular UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. In this project, we have utilized various common widgets like **Row** and **Column** to organize the UI components efficiently. Additionally, we have integrated assets such as custom fonts and images to enhance the visual appeal of the login interface.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
+In this I have used custom fonts and images. So in order to run the project you must import the dependencies in your pubspec.yaml and be sure to pubg get it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screentshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (7)](https://github.com/osamullah420/LoginPageUi-flutter/assets/141023064/d6654789-2024-4694-88ba-3ecc67e0c09c)
+
+
