@@ -9,13 +9,25 @@ This is a simple and attractive Login UI created using Flutter, a popular UI too
 
 
 
+
 # Prerequisites
 
 To run this application, you will need the following installed on your machine:
 
 * Flutter SDK: To get started with Flutter, refer to the official **'installation guide'**.
 * An IDE (e.g., Android Studio, IntelliJ, Visual Studio Code) with Flutter plugins installed.
-Getting S
+
+
+
+# Getting Started
+
+To use this Login UI in your project, follow these steps:
+
+
+* Clone the repository
+* Change directory to the cloned repository
+* Get the Flutter dependencies
+* Run the application on your preferred emulator or physical device
 
 
 
